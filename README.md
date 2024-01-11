@@ -12,7 +12,16 @@ A list of resources and tools for the spring 2023 FRC challenge, crescendo
 **Link**: https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html
 
 **Summary**: Link to a forums page to talk and comunicate with other teams about issues and troubleshooting
-             **Link**: https://www.chiefdelphi.com/
+**Link**: https://www.chiefdelphi.com/
+
+**Summary**: Link to REV Robotics github has example code for all REV products
+**Link**: https://github.com/REVrobotics
+
+**Summary**: Link to Cross The Road Electronics github has example code 
+**Link**: https://github.com/orgs/CrossTheRoadElec/repositories?type=all
+
+**Summary**: Link to base swerve code example
+***Link**: https://github.com/BroncBotz3481/YAGSL-Example/blob/main/
 
 ### Vision Programming Resources
 
