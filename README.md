@@ -12,7 +12,7 @@ A list of resources and tools for the spring 2023 FRC challenge, crescendo
 **Link**: https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html
 
 **Summary**: Link to a forums page to talk and comunicate with other teams about issues and troubleshooting
-  **Link**:https://www.chiefdelphi.com/
+ **Link**: https://www.chiefdelphi.com/
 
 ### Vision Programming Resources
 
