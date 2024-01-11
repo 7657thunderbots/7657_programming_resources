@@ -21,7 +21,7 @@ A list of resources and tools for the spring 2023 FRC challenge, crescendo
 **Link**: https://github.com/orgs/CrossTheRoadElec/repositories?type=all
 
 **Summary**: Link to base swerve code example
-***Link**: https://github.com/BroncBotz3481/YAGSL-Example/blob/main/
+**Link**: https://github.com/BroncBotz3481/YAGSL-Example/blob/main/
 
 ### Vision Programming Resources
 
