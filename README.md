@@ -1,7 +1,6 @@
 # Thunderbolts crescendo Resources
 A list of resources and tools for the spring 2023 FRC challenge, crescendo
 
-
 ## Programming Resources
 
 ### Robot Programming Resources
@@ -22,6 +21,14 @@ https://github.com/orgs/CrossTheRoadElec/repositories?type=all
 
 **Summary**: Link to base swerve code example  
 https://github.com/BroncBotz3481/YAGSL-Example/blob/main/
+
+## Python Programming Resources
+
+**Summary**: A website to practice python programming on without installing anything (school laptop friendly)  
+https://replit.com
+
+**Summary**: Ptyhon getting started resources  
+https://robotpy.readthedocs.io/en/stable/guide/python.html
 
 ### Vision Programming Resources
 
